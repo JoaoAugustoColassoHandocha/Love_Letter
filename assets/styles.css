@@ -290,12 +290,19 @@ body {
 }
 
 .scissors {
-  cursor: url("https://i.postimg.cc/GtLCdKxR/sisors.png"), pointer;
+
+    cursor: url("https://i.postimg.cc/GtLCdKxR/sisors.png"), pointer;
+
 }
+
 .scissors:active {
-  cursor: url("https://i.postimg.cc/GtXQ7WPZ/pngwing-com.png"), pointer;
+
+    cursor: url("https://i.postimg.cc/GtXQ7WPZ/pngwing-com.png"), pointer;
+
 }
 
 .cursor {
-  cursor: pointer;
+
+    cursor: pointer;
+
 }
