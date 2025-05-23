@@ -159,21 +159,24 @@ body {
 }
 
 .envelop__false-sticker {
-  width: 20%;
-  height: 20%;
-  position: absolute;
-  margin: auto;
-  top: 30%;
-  left: 80%;
-  bottom: 0;
-  right: 0;
-  z-index: 300;
-  background-image: url("https://www.freepnglogos.com/uploads/heart-png/emoji-heart-33.png");
-  background-color: #f9f9f9;
-  border: 0.3rem solid #e2e2e2;
-  background-size: 2rem;
-  background-position: center;
+
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    margin: auto;
+    top: 30%;
+    left: 80%;
+    bottom: 0;
+    right: 0;
+    z-index: 300;
+    background-image: url("https://www.freepnglogos.com/uploads/heart-png/emoji-heart-33.png");
+    background-color: #f9f9f9;
+    border: 0.3rem solid #e2e2e2;
+    background-size: 2rem;
+    background-position: center;
+
 }
+
 @media (max-width: 400px) {
   .envelop__false-sticker {
     background-size: 1.2rem;
