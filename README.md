@@ -15,5 +15,3 @@ To access the website, [click here](https://joaoaugustocolassohandocha.github.io
 #
 
 ![Reservation_Calendar](https://github.com/JoaoAugustoColassoHandocha/Reservation_Calendar/blob/main/assets/Reservation_Calendar.png)
-
-#
